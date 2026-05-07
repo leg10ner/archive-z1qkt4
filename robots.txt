@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leg10ner.github.io/archive-z1qkt4/sitemap.xml
